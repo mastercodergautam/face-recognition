@@ -1,0 +1,25 @@
+body{
+    background:linear-gradient(to bottom right,yellow,lightgreen,yellow) ;
+    color:purple;
+}
+.heading{
+    width:80%;
+    font-size:32px;
+    height:80px;
+    border-radius:5px;
+
+}
+#camera,#result{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+
+
+}
+.name_of_objects{
+    color:yellow;
+   width:100%;
+   background-color:blue; 
+   height:60px;
+   font-size:22px;;
+}
